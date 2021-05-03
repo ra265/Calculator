@@ -1,0 +1,33 @@
+#tbl {
+    border: 3px solid black;
+    width: 400px;
+    text-align: center;
+    font-size: 40px;
+    margin: 10px auto;
+    padding: 10px;
+    background-color: yellow;
+    color: blue;
+}
+/* #tbl td{
+    border: 1px solid darkblue;
+
+} */
+#tbl button{
+    border-radius: 20px;
+    width: 100px;
+    height: 50px;
+    font-size: large;
+}
+button#clear , #tdclr{
+    width: 400px;
+}
+#scr{
+    width : 400px;
+    height: 50px;
+    font-size: large;
+    border-radius: 20px;
+    text-align: right;
+}
+button#equ {
+    width: 200px;
+}
